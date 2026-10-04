@@ -12,7 +12,7 @@
 
  $\color{#1C6592}{\textsf{im}}$⠀ $\color{#213C54}{\textsf{a}}$⠀ $\color{#1C6592}{\textsf{loser}}$⠀ $\color{#213C54}{\textsf{baby,}}$⠀ $\color{#1C6592}{\textsf{so}}$⠀ $\color{#213C54}{\textsf{why}}$⠀ $\color{#1C6592}{\textsf{don't}}$⠀ $\color{#213C54}{\textsf{you}}$⠀ $\color{#1C6592}{\textsf{kill}}$⠀ $\color{#213C54}{\textsf{me?}}$
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eosxmshwcnwm3wuy63s2ai63ai&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=#12426A&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eosxmshwcnwm3wuy63s2ai63ai&cover_image=true&theme=novatorem&show_offline=true&background_color=12426A&interchange=true&profanity=false&hide_remaster=false&bar_color=#12426A&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
  <details>
   <summary>${{\color{#1C6592}\small{\textsf{INFO}}}}$</summary>
