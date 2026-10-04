@@ -2,7 +2,7 @@
 
 <img align="left" width="280" height="396" alt="45b4f47ea94615e6cdaaaae4e1d87e4f-removebg-preview" src="https://github.com/user-attachments/assets/9e1865ec-31df-4ad2-95a7-bc7d544050f2" />
 
- ![](https://komarev.com/ghpvc/username=hollowedeyes&label=ᥣᥲsᥱrs_𝖿іrᥱძ%20&base=000&color=#12426A&style=flat)
+ ![](https://komarev.com/ghpvc/?username=hollowedeyes&label=ᥣᥲsᥱrs_𝖿іrᥱძ%20&base=000&color=12426A&style=flat)
 
  $\color{#FDEE63}{\textsf{soy}}$⠀ $\color{#EF6352}{\textsf{un}}$⠀ $\color{#34B9D6}{\textsf{perdedor}}$
 
